@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dentaku</string>
+    <string name="formula_text" />
+    <string name="btClear">C</string>
+    <string name="btDivide">÷</string>
+    <string name="btMultiply">×</string>
+    <string name="btDelete">DEL</string>
+    <string name="btSeven">7</string>
+    <string name="btEight">8</string>
+    <string name="btNine">9</string>
+    <string name="btPercent">%</string>
+    <string name="btFour">4</string>
+    <string name="btFive">5</string>
+    <string name="btSix">6</string>
+    <string name="btSubtract">-</string>
+    <string name="btOne">1</string>
+    <string name="btTwo">2</string>
+    <string name="btThree">3</string>
+    <string name="btAdd">+</string>
+    <string name="btZero">0</string>
+    <string name="btPoint">.</string>
+    <string name="btEqual">=</string>
+</resources>
